@@ -1,11 +1,19 @@
 body{
-    background-color: lightcyan;
+    background-color: rgb(255, 255, 255);
 }
 
 h1{
-    color: darkred;
+    color: rgb(211, 0, 0);
+    background-color: black;
+    text-align: center;
 }
 
 h2{
-    color: red;
+    color: rgb(211, 0, 0);
+    background-color: rgb(89, 89, 231);
+    text-align: center;
+}
+
+h3{
+    color: black;
 }
