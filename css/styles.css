@@ -1,19 +1,31 @@
-body{
+html{
     background-color: rgb(255, 255, 255);
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 16px;
 }
 
 h1{
-    color: rgb(211, 0, 0);
+    font-size: 2.5em;
+}
+
+h2{
+    font-size: 1.8em;
+    color: rgb(233, 0, 0);
+    background-color: rgb(53, 82, 211);
+    text-align: center;
+}
+
+.título{
+    color: rgb(233, 0, 0);
+    font-size: 3.8rem;
     background-color: black;
     text-align: center;
 }
 
-h2{
-    color: rgb(211, 0, 0);
-    background-color: rgb(89, 89, 231);
-    text-align: center;
-}
-
-h3{
-    color: black;
+.título span{
+    color: white;
+    font-size: 2rem;
 }
